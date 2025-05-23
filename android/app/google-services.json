@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "76749106822",
+    "project_id": "qahm-bd6e8",
+    "storage_bucket": "qahm-bd6e8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76749106822:android:e406f38acf771358ae6b07",
+        "android_client_info": {
+          "package_name": "com.example.quiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACi8gabTnYfGQ9LjZjNKI9a1zND-8RDJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76749106822:android:7f769493f8d16442ae6b07",
+        "android_client_info": {
+          "package_name": "com.example.ticket_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACi8gabTnYfGQ9LjZjNKI9a1zND-8RDJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

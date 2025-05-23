@@ -1,4 +1,4 @@
-# ticket_system
+# Flight Booking System
 
 A new Flutter project.
 
